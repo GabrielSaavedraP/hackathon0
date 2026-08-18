@@ -1,0 +1,11 @@
+
+Contiene el glifo del sello que la rama principal nunca recupero.
+
+======================================
+   ARCHIVO 2031 - FRAGMENTO 02/02
+======================================
+origen : respaldo previo al incidente
+palabra: GRAFO
+codigo : 31ac7a5d41
+--------------------------------------
+Transcribir tal cual. Se compara linea a linea.
